@@ -1,0 +1,30 @@
+body {
+    background-color: #F2EBE9;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: #1B2430;
+}
+
+h2 {
+    text-align: center;
+    color: #A10035;
+}
+
+h3 {
+    color:#5FD068
+}
+
+.metinsol {
+    text-align: left;
+}
+
+ul, li {
+    list-style-position: inside
+}
+
+.bold {
+    font-weight: bold;
+}
